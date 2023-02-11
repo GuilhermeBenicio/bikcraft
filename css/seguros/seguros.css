@@ -19,7 +19,7 @@
   background-color: var(--cor-12);
   padding: 32px 32px 32px 60px;
   display: grid;
-  grid-template-columns: 1fr auto;
+  grid-template-columns: 1fr 1fr;
 }
 
 .seguros-item h3 {
