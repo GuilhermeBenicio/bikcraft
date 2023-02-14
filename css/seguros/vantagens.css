@@ -21,6 +21,7 @@
   display: grid;
   grid-template-columns: auto 1fr;
   gap: 0 8px;
+  align-items: center;
 }
 
 .vantagens p {
