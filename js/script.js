@@ -27,7 +27,6 @@ function ativarProduto(parametro) {
 parametros.forEach(ativarProduto);
 
 // Perguntas frequentes
-
 const perguntas = document.querySelectorAll(".perguntas button");
 
 function ativarPergunta(event) {
